@@ -28,7 +28,7 @@ const baseTTL = 150;
 const rangeTTL = 500;
 const baseRadius = 100;
 const rangeRadius = 500;
-const rangeHue = 120;
+const rangeHue = 30;
 const xOff = 0.0015;
 const yOff = 0.0015;
 const zOff = 0.0015;
@@ -80,8 +80,6 @@ function initCircle(i) {
 
 function updateCircles() {
   let i;
-
-  baseHue++;
 
   for (i = 0; i < circlePropsLength; i += circlePropCount) {
     updateCircle(i);
