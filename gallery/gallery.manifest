@@ -873,7 +873,7 @@
       "description": "Shift",
       "author": "tympanus",
       "source": "https://tympanus.net/Development/AmbientCanvasBackgrounds/index3.html",
-      "hash": "f3ee02c06769a7339df465453fa02fad1c69f76b",
+      "hash": "fc7f1eface245845b2afbf3db3679b15ce70f426",
       "parameters": [
         {
           "name": "opacity",
